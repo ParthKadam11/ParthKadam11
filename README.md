@@ -33,10 +33,10 @@ Currently learning by building, breaking, and improving.
 
 ---
 
-## 💬
+## 💬 Quotes
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=ParthKadam11&color=13)
+![](https://komarev.com/ghpvc/?username=ParthKadam11&color=1)
