@@ -1,10 +1,10 @@
-Hi, I’m Parth 👋  
+# Hi, I’m Parth 👋  
 
 I build backend-heavy applications with a focus on how systems behave in real usage.  
 Interested in real-time systems, data consistency, and building things that actually get used.  
 Currently learning by building, breaking, and improving.
 
-## 🌐 Connect on socials
+## 🌐 Connect on Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthganpatkadam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://parthkadam.tech)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/parthdot404)
