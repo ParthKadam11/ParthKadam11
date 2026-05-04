@@ -1,8 +1,8 @@
 # Hi, I’m Parth 👋  
 
-I build backend-heavy applications with a focus on how systems behave in real usage.  
-Interested in real-time systems, data consistency, and building things that actually get used.  
-Currently learning by building, breaking, and improving.
+I build web applications and focus on understanding how they behave in real usage.  
+Interested in real-time systems and practical problem-solving.  
+Learning by building and iterating.
 
 ## 🌐 Connect on Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthganpatkadam)
