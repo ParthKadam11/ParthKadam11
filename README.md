@@ -39,4 +39,4 @@ Currently learning by building, breaking, and improving.
 
 ---
 
-![](https://komarev.com/ghpvc/?username=ParthKadam11&color=1)
+![](https://komarev.com/ghpvc/?username=ParthKadam11&color=blue)
