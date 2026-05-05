@@ -1,8 +1,7 @@
 # Hi, I’m Parth 👋  
 
 I build web applications and focus on understanding how they behave in real usage.  
-Interested in real-time systems and practical problem-solving.  
-Learning by building and iterating.
+Interested in real-time systems and practical problem-solving. Learning by building and iterating.
 
 ## 🌐 Connect on Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthganpatkadam)
