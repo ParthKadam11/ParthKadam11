@@ -25,4 +25,4 @@ real-time market data, consistency, and event-driven systems.
 Backend engineering, production incidents, architecture,
 and lessons from building software.
 
-[Read my writing →](https://parthkadam.tech/blogs)
+[Read my writing →](https://parthkadam.tech/blog)
