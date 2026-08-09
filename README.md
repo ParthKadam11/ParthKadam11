@@ -13,8 +13,7 @@ and contributing to open source.
 ## Selected work
 
 **[ColabCanvas](https://www.colabcanvas.me/)**  
-Real-time collaborative whiteboard exploring WebSockets,
-CRDT-based synchronization, and scalable backend architecture.
+Real-time collaborative whiteboard exploring WebSockets,canvas synchronization, and scalable backend architecture.
 
 **Centralized Exchange**  
 Production-inspired exchange exploring matching engines,
