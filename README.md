@@ -2,9 +2,6 @@
 
 Backend engineer building reliable software systems.
 
-I work primarily with TypeScript, Node.js, PostgreSQL, and Docker,
-while going deeper into Go, distributed systems, and cloud-native engineering.
-
 Currently building a production-inspired centralized exchange
 and contributing to open source.
 
