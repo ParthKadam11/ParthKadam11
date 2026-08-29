@@ -5,11 +5,11 @@ Backend engineer building reliable software systems.
 Currently building a production-inspired centralized exchange
 and contributing to open source.
 
-[Portfolio](https://parthkadam.tech) · [LinkedIn](https://www.linkedin.com/in/parthganpatkadam/) · [X](https://x.com/parthdot404) · [Email](mailto:parthganpatkadam@gmail.com) 
+<a href="https://parthkadam.tech" target="_blank">Portfolio</a> · <a href="https://www.linkedin.com/in/parthganpatkadam/" target="_blank">LinkedIn</a> · <a href="https://x.com/parthdot404" target="_blank">X</a> · <a href="mailto:parthganpatkadam@gmail.com" target="_blank">Email</a> 
 
 ## Writing
 
 Backend engineering, production incidents, architecture,
 and lessons from building software.
 
-[Read my writing →](https://medium.com/@parthdot404)
+<a href="https://medium.com/@parthdot404" target="_blank">Read my writing →</a>
