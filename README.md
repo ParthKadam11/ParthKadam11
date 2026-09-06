@@ -1,7 +1,6 @@
 # Parth Kadam
 
 Backend engineer building reliable software systems.
-
 Currently building a production-inspired centralized exchange
 and contributing to open source.
 
