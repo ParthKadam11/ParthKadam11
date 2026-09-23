@@ -11,4 +11,4 @@ and contributing to open source.
 Backend engineering, production incidents, architecture,
 and lessons from building software.
 
-[Read my writing →](https://medium.com)
+[Read my writing →](https://medium.com/@parthdot404)
