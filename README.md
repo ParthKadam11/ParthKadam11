@@ -4,7 +4,7 @@ Backend engineer building reliable software systems.
 Currently building a production-inspired centralized exchange
 and contributing to open source.
 
-[Portfolio](https://parthkadam.tech) · [LinkedIn](https://linkedin.com) · [X](https://x.com) 
+[Portfolio](https://parthkadam.tech) · [LinkedIn]((https://www.linkedin.com/in/parthganpatkadam/)) · [X]((https://x.com/parthdot404)) 
 
 ## Writing
 
